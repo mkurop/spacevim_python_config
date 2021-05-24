@@ -12,7 +12,7 @@ The configs provide some key-bindings for merging using the fugitive plugin:
 ```
 <leader>gd
 ```
-for opening 3-way merge windows
+for opening 3-way merge windows on the file with merge conflicts
 
 ```
 ghd
